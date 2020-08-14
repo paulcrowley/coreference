@@ -1,3 +1,3 @@
-# coreference
+# Coreference
 
 A rule-based coreference resolver using nltk.
