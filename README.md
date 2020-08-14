@@ -1,3 +1,8 @@
-# Coreference
+# Coreference resolution 
 
-A rule-based coreference resolver using nltk.
+A rule-based coreference resolution system.
+
+### Build the docker container
+```
+docker build -t knowledge-graph-api .
+```
