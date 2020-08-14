@@ -1,6 +1,6 @@
 # Coreference resolution 
 
-A rule-based coreference resolution system.
+A rule-based coreference resolution system for the most common types of coreference.
 
 ### Build the docker container
 ```
